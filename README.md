@@ -13,12 +13,11 @@ To analyze the disk structure of a given disk image using Sleuth Kit tools in Ka
 
 ## ARCHITECTURE DIAGRAM
 ```mermaid
-flowchart TD
-    A[Disk Image / Physical Disk] --> B[mmls - Partition Analysis]
-    B --> C[fsstat - File System Metadata]
-    C --> D[fls - File Listing]
-    D --> E[icat - File Recovery]
-    E --> F[Recovered Data / Metadata Report]
+
+
+
+<img width="852" height="787" alt="image" src="https://github.com/user-attachments/assets/3295b0e1-930c-4ef4-b426-1f0e040e01cf" />
+
 ```
 ## DESIGN STEPS:
 ### Step 1:
