@@ -72,9 +72,26 @@ fls.exe -r -o 2048 C:\forensics\disk.dd
 icat.exe -o 2048 C:\forensics\disk.dd 6 > C:\forensics\image.jpg
 ```
 ## OUTPUT:
+
+
 Disk Structure Analysis Results
-<img width="1600" height="855" alt="image" src="https://github.com/user-attachments/assets/900de02d-7386-4d9a-a40d-ea245f2520ea" />
-<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/5b30ffdc-80e1-4765-951e-797861041ecd" />
+
+
+<img width="228" height="64" alt="image" src="https://github.com/user-attachments/assets/3bb1a17e-9a88-4028-a04a-0816fdbf2fa2" />
+
+<img width="508" height="96" alt="image" src="https://github.com/user-attachments/assets/3f2b6d13-13cc-4460-bfc4-5ca2fc1891d7" />
+
+<img width="550" height="240" alt="image" src="https://github.com/user-attachments/assets/34e2251c-38ee-4d99-b0b9-00dd8c12ffb7" />
+
+<img width="673" height="940" alt="image" src="https://github.com/user-attachments/assets/8f196020-c709-4374-8727-b28ec94d6767" />
+
+<img width="1061" height="121" alt="image" src="https://github.com/user-attachments/assets/7d592a3d-315a-44bd-95fb-84dcc70ecf9a" />
+
+<img width="962" height="849" alt="image" src="https://github.com/user-attachments/assets/e6f43525-9abd-4477-9573-df941f0cb733" />
+
+<img width="585" height="633" alt="image" src="https://github.com/user-attachments/assets/8e41763e-c90a-4df0-b79f-d43f52206ce4" />
+
+
 
 ## RESULT:
 The analysis was performed successfully using Sleuth Kit, and the disk structure was understood in detail.
